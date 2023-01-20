@@ -1,4 +1,4 @@
-# Hi There!
+# Hi There! 👋
 
 # About Me:
 👷‍♂️🔨 I’m currently working on Lunar 🌙<br>🏫🔍 I’m currently learning HTML & JS
